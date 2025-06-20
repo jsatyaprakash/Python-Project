@@ -1,4 +1,4 @@
-str1 = "this is a string."
+astr1 = "this is a string."
 str2 = 'apnacollege'
 str3 = """this is a string"""
 
